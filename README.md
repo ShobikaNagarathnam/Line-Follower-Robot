@@ -5,7 +5,7 @@ This project implements an autonomous line follower robot using an Arduino Nano,
 
 ## 🛠 Components Used
 
-Arduino Nano, TB6612FNG Motor Driver, 8-Channel Digital IR Sensor Array, 2 × N20 Gear Motors, 2 × N20 Wheels, Ball Caster, 7.4V Li-Po Battery, Switch, Sun Board Chassis
+Arduino Nano, TB6612FNG Motor Driver, 8-Channel Digital IR Sensor Array, 2 × N20 Gear Motors, 2 × N20 Wheels, Ball Caster, 7.4V Li-Po Battery, 7.4V Li-on Battery (spare), Switch, Sun Board Chassis
 
 ## ⚙ Hardware Connections
 
