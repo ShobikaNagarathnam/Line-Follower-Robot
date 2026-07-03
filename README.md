@@ -88,6 +88,6 @@ The process repeats continuously, allowing the robot to autonomously follow the 
 
 ## 🚀 Future Improvements
 
-Replace the 8-channel digital IR sensor array with a curved analog IR sensor array for more precise line position detection.
-Implement a PID controller to achieve smoother steering, faster response, and better stability at higher speeds.
-Design a custom PCB to eliminate loose jumper wire connections and improve reliability.
+- Replace the 8-channel digital IR sensor array with a curved analog IR sensor array for more precise line position detection.
+- Implement a PID controller to achieve smoother steering, faster response, and better stability at higher speeds.
+- Design a custom PCB to eliminate loose jumper wire connections and improve reliability.
